@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_SD_IMPOR_DETALL_OC'
+define service Z_SD_IMPOR_DETALL_OC {
+  expose Z_IMPOR_DETALL_OC;
+}

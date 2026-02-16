@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_SD_IMPOR_ENCAB_OC'
+define service Z_SD_IMPOR_ENCAB_OC {
+  expose Z_IMPOR_ENCAB_OC;
+}
